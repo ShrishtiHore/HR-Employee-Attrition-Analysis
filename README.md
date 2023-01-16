@@ -2,7 +2,7 @@
 
 Employee attrition analytics is specifically focused on identifying why employees voluntarily leave, what might have prevented them from leaving, and how we can use data to predict attrition risk.
 
-![hr_analysis](https://github.com/ShrishtiHore/HR-Employee-Attrition-Analysis/blob/main/HR_Analytics_Dashboard.PNG)
+HR_Analytics_Dashboard.PNG
 
 Employee attrition analytics is specifically focused on identifying why employees voluntarily leave, what might have prevented them from leaving, and how we can use data to predict attrition risk. Most importantly, this type of employee predictive analytics can be used to help organizations understand and design the interventions that will be most effective in reducing unwanted attrition.
 
